@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+crewai
+crewai-tools
+langchain-community
+pydantic
+openai
